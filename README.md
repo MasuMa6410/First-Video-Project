@@ -2,8 +2,6 @@
 
 This is the first video project of BOOTSTRAP.
 
-Here's a well-structured `README.md` for your "webprog.io" project:
-
 ---
 
 # webprog.io
@@ -71,9 +69,9 @@ This project is a learning tool and can be used as a reference for:
 
 Here’s a preview of the project:
 
-![webprog.io Homepage](./Images/Screenshot/first%20image%20of%20my%20project.PNG)
-
 ![webprog.io Homepage](./Images/Screenshot/second%20image%20of%20my%20project.PNG)
+
+![webprog.io Homepage](./Images/Screenshot/first%20image%20of%20my%20project.PNG)
 
 ## Future Enhancements
 
